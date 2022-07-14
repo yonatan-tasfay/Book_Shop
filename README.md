@@ -1,2 +1,2 @@
 # College_Management
-Developed in Spring Framework,MySQL.
+Developed using  Spring/Hibernate/Servlet/JSP/Bootstrap/HTML/MySQL.
